@@ -11,3 +11,17 @@
 .barra-contacto{
   background-color: #0f68b6;
 }
+.navbar-brand {
+    color: #ff69b4 !important;
+}
+body {
+    color: #ff1493;
+
+}
+.btn-primary {
+    background-color: #ff69b4;
+    border-color: #ff69b4;
+}
+.barra-contacto a {
+    color: #ff69b4 !important;
+}

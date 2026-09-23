@@ -1,7 +1,7 @@
 
 :root {
-    --verde-principal: #07d412;
-    --verde-claro: #a5d6a7;
+    --verde-principal: #ff1493;
+    --verde-claro: #ff69b4;
     --gris-fondo: #f8f9fa;
 }
 
@@ -38,7 +38,7 @@
 /* Acordeón */
 .accordion-button:not(.collapsed) {
     background-color: var(--verde-claro);
-    color: #08532f;
+    color: #ff69b4;
 }
 
 .accordion-button:focus {
@@ -51,3 +51,6 @@
     letter-spacing: 1px;
 }
 
+.navbar-brand {
+    color: #ff69b4 !important;
+}
