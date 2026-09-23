@@ -2,3 +2,6 @@
   max-height: 400px;
   object-fit: contain;
 }
+.navbar-brand {
+    color: #ff69b4 !important;
+}

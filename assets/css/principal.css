@@ -10,10 +10,16 @@
 }
 main {
     background-color: #f3f7fb;  
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(212, 17, 108, 0.892);
 }
 
 footer {
     background-color: #b3bfca;
     color: white;
+}
+.navbar-brand {
+    color: #ff69b4 !important;
+}
+.foto-perfil {
+    border-color: #ff69b4 !important;
 }
