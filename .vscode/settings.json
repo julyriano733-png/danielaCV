@@ -1,3 +1,4 @@
 {
-    "livePreview.defaultPreviewPath": "/pages/estudios.html"
+    "livePreview.defaultPreviewPath": "/pages/estudios.html",
+    "liveServer.settings.port": 5502
 }
